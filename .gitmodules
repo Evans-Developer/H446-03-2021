@@ -1,0 +1,12 @@
+[submodule "H446-03-2021-Frontend"]
+	path = H446-03-2021-Frontend
+	url = https://github.com/Evans-Developer/H446-03-2021-Frontend.git
+[submodule "H446-03-2021-Backend"]
+	path = H446-03-2021-Backend
+	url = https://github.com/Evans-Developer/H446-03-2021-Backend
+[submodule "H446-03-2021-AI_Worker"]
+	path = H446-03-2021-AI_Worker
+	url = https://github.com/Evans-Developer/H446-03-2021-AI_Worker
+[submodule "H446-03-2021-AI_Trainer"]
+	path = H446-03-2021-AI_Trainer
+	url = https://github.com/Evans-Developer/H446-03-2021-AI_Trainer
